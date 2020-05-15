@@ -18,7 +18,7 @@ USER_BOT_NO_WARN = ("[──▄█▀█▄─────────██ \n�
                     "**Don't Dare To Spam My Masters Chat Or You can even get Fucked Up ! "
                     f"{DEFAULTUSER}'s inbox**.\n\n"
                     "`🔶I Am :` **A PowerFul Bot And Always Active**\n\n"
-                    "**So Please Dont say hello or hi Just Tell What You Want**\n\n"
+                    "**So Please say hello For More Options **\n\n"
                     "** Join My Chat Group For Any Help @TechnologicalWorld. ")
 
 
