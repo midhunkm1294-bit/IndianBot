@@ -24,14 +24,14 @@ async def set_not_afk(event):
         try:
             await borg.send_message(  # pylint:disable=E0602
                 Config.PLUGIN_CHANNEL,  # pylint:disable=E0602
-                "Mine Owner has gone for some Important work he is very busy🥳🥳🥳"
+                "Theroku kyu Batao Mc! !"
             )
         except Exception as e:  # pylint:disable=C0103,W0703
             await borg.send_message(  # pylint:disable=E0602
                 event.chat_id,
                 "Please set `PLUGIN_CHANNEL` " + \
                 "for the proper functioning of afk functionality " + \
-                "in @IndianArMyGiveaway\n\n `{}`".format(str(e)),
+                "in @Binzhub\n\n `{}`".format(str(e)),
                 reply_to=event.message.id,
                 silent=True
             )
