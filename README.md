@@ -1,9 +1,8 @@
 # IndianBot
 
 For any query or want to know how it works join
-## https://t.me/IndianBot_Official
-
-## FORK AT YOUR OWN RISK
+## https://t.me/MarioDevs
+## FORK KAr MC
 ### Installing
 
 ### The Easy Way
