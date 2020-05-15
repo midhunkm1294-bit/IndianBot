@@ -1,4 +1,4 @@
-# IndianBot
+# Thumara Baap
 
 For any query or want to know how it works join
 ## https://t.me/MarioDevs
